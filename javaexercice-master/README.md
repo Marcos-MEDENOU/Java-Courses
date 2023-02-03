@@ -205,6 +205,7 @@ private JFormattedTextField nouvelleNote = new JFormattedTextField(NumberFormat.
 
 ## Exercice 15 - Collection
 
+
 __Question 1__
 
 On considère la classe Carte :
